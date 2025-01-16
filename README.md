@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0162-find-peak-element) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
