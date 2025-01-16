@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
