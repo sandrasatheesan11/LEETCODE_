@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0179-largest-number) |
 ## String Matching
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0051-n-queens) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
