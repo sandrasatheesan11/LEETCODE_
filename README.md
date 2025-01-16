@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0094-binary-tree-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sandrasatheesan11/LEETCODE_/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
